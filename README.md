@@ -1,7 +1,7 @@
 # CRUD-POO
 
 
-Construcao de uma API simples com alguns padroes de projetos utilizando SpringBoot2.4 e H2Database.
+Construcao de uma API simples com alguns padroes de projetos utilizando SpringBoot e MySql.
 
 Estrutura de Packages
 API: Todos os serviços RestFul, resources e builders, dto's.
